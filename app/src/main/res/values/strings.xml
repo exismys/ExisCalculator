@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Exis Calculator</string>
+    <string name="next_button">next</string>
+    <string name="get">Get</string>
+    <string name="prime_header">Prime Factors</string>
+    <string name="gcd_header">Greatest Common Factors</string>
+    <string name="prime_hint">Enter a prime number: 7</string>
+    <string name="gcd_hint">Enter space separated numbers: 30 60 90</string>
+    <string name="invalid_input">Invalid Input! Please enter in correct input format.</string>
+    <string name="error_message">Sorry for inconvenience. An error occurred: </string>
+    <string name="if_prime">The number itself is a prime number.</string>
+    <string name="is_gcd">The GCD of the number is: </string>
+
+
+
+    <string-array name="options">
+        <item>GCD (HCF)</item>
+        <item>Prime Factors</item>
+    </string-array>
+
+</resources>
